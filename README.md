@@ -1,5 +1,5 @@
 # DecisionTree
-quick decision tree implementation on "loan" data
+quick decision tree and furthurmore random forest implementation on "loan" data
 
 -----------------------------------------------------------------------------------------------
 This repo contains a very simple model just to practice!
