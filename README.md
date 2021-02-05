@@ -1,4 +1,4 @@
-# DecisionTree
+# DecisionTree | RandomForest
 quick decision tree and furthurmore random forest implementation on "loan" data
 
 -----------------------------------------------------------------------------------------------
